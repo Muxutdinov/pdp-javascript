@@ -22,7 +22,7 @@
 // Math==========
 //Math.round(14.7) = 15
 //Math.round(14.2) = 14
-//Math.pow(5,2) = 25
+// Math.pow(5,2) = 25
 //Math.sqrt(64) = 8
 //Math.abs(-100) = 100
 //Math.ceil(4.2) = 5

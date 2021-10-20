@@ -1,81 +1,81 @@
-// var obj = {
-//     name:'Jaxongir',
-//     status:'Student',
-//     age:20
-// }
-// obj.name='Dilshod'
-// console.log(obj.name);
-// Object.freeze(obj)
-// delete obj.name;
-// obj.surname = 'Muxutdinov'
-// Object.seal(obj)
-// console.log(Object.keys(obj));
+var obj = {
+    name:'Jaxongir',
+    status:'Student',
+    age:20
+  }
+  // obj.name='Dilshod'
+  // console.log(obj.name);
+  // Object.freeze(obj)
+  // delete obj.name;
+  // obj.surname = 'Muxutdinov'
+  // Object.seal(obj)
+  // console.log(Object.keys(obj));
 // console.log(Object.values(obj));
 // console.log(Object.entries(obj));
 // console.log(obj);
 //=========================================
-// var students = [
-//        {
-//         name:'Jaxongir',
-//         status:'Student',
-//         age:20
-//     },
-//          {
-//         name:'Azizbek',
-//         status:'Magister',
-//         age:24
-//     },
-//           {
-//         name:'Sardor',
-//         status:'Menter',
-//         age:28
-//     }
-// ]
+var students = [
+       {
+        name:'Jaxongir',
+        status:'Student',
+        age:20
+    },
+         {
+        name:'Azizbek',
+        status:'Magister',
+        age:24
+    },
+          {
+        name:'Sardor',
+        status:'Menter',
+        age:28
+    }
+]
 // console.log(students);
 //==========================
 
-// students.surname='rvgnewiuovnj'
-// console.log(students);
+// students.surname="Muxutdinov"
+// console.log(students.surname="Muxutdinov");
 // })
 //======================Homework==age=sort  name=sort=alfabit   id=sort
-// var list = [
-//     {
-//       name:"Jaxongir",
-//       age:12,
-//       solary:20
-//     },
-//       {
-//         name:"Akmal",
-//         age:9,
-//         solary:23
-//       },
-//       {
-//         name:"Akobir",
-//         age:7,
-//         solary:26
-//       },
-//       {
-//         name:"Sardor",
-//         age:4,
-//       solary:29
+var list = [
+    {
+      name:"Jaxongir",
+      age:12,
+      solary:20
+    },
+      {
+        name:"Akmal",
+        age:9,
+        solary:23
+      },
+      {
+        name:"Akobir",
+        age:7,
+        solary:26
+      },
+      {
+        name:"Sardor",
+        age:4,
+      solary:29
 
-//       },
-//       {
-//         name:"Azizbek",
-//         age:23,
-//       solary:28
-//       },
-//       {
-//         name:"Kamron",
-//         age:8,
-//       solary:20
-//       },
-//       {
-//         name:"Rovshan",
-//         age:25,
-//         solary:56
-//       }
-// ]
+      },
+      {
+        name:"Azizbek",
+        age:23,
+      solary:28
+      },
+      {
+        name:"Kamron",
+        age:8,
+      solary:20
+      },
+      {
+        name:"Rovshan",
+        age:25,
+        solary:56
+      }
+]
 //===================age+
 // num=list.filter((value)=>value.age>10)
 // var sum = 0;

@@ -1,8 +1,8 @@
 // function Passport(){
-//     console.log('passport number :', 'AB123456')
+//     console.log('passport number :', "AB123456")
 //     console.log('name','Jaxongir')
 //     console.log('surname','Muxutdinov')
-//     console.log('date:', 'malumot')
+//     console.log('data:', 'malumot')
 //     console.log('================')
 // }
 // Passport()

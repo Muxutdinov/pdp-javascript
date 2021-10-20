@@ -30,7 +30,7 @@
 
 // Map======================
 // ar.map((value,index,ar)=>{
-    //     console.log(value,index,ar)
+        // console.log(value,index)
     // })
     //==========================
     //forEach====================
@@ -39,16 +39,16 @@
         //     console.log(value,index,ar)
         // })
         // //=============================
-        // const raqamla = [2,3,4,7,098,5,4,3,345,987,54,3,23,89]
+//         const raqamla = [2,3,4,7,098,5,4,3,345,987,54,3,23,89]
 // sum = 0;
 // raqamla.slice(2,6).forEach((value)=>{
-    //     sum += value
-    // })
-    // console.log(sum);
+//         sum += value
+//     })
+//     console.log(sum);
     //==================================
-    // const raqamla = [2,3,4,7,098,5,4,3,345,987,54,3,23,89]
-    // sum = 0;
-    // raqamla.forEach((value,index)=>{
+//     const raqamla = [2,3,4,7,098,5,4,3,345,987,54,3,23,89]
+//     sum = 0;
+//     raqamla.forEach((value,index)=>{
 //   if(index >= 2 && index <=6)
 //     son=sum+=value
 // })
@@ -67,3 +67,4 @@
     ///////////////======================practice
     // const son = raqamla.filter((value)=>value<10).sort((a,b)=>a-b).reduce((value,index)=>{return value+index})
     // console.log(son);
+
